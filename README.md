@@ -1,6 +1,6 @@
 # Blue Book For Bulldozers Machine Learning
 
-##Predicting he Sale PRice of Bulldozers using Machine Learning
+Predicting the Sale Price of Bulldozers using Machine Learning
 In this noebook, we're going to go through an exmaple mahcine learning project with the goal of prediciting the sale price of bulldozers.
 **1. Problem Definition**
 How well can we predict the future sale price of a bulldozer, given its characterisics and previous examples of how much similar bulldozers have been sold for?
